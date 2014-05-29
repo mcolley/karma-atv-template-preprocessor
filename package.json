@@ -1,14 +1,14 @@
 {
-  "name": "karma-html2js-preprocessor",
+  "name": "karma-atv-template-preprocessor",
   "version": "0.1.0",
-  "description": "A Karma plugin. Convert HTML files into JS strings to serve them in a script tag.",
+  "description": "A Karma plugin. Compiles ATV templates into js strings, and namespaces according to our own specal sauce....",
   "main": "lib/index.js",
   "scripts": {
     "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-html2js-preprocessor.git"
+    "url": "git://github.com/mcolley/karma-atv-template-preprocessor.git"
   },
   "keywords": [
     "karma-plugin",
